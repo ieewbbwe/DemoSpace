@@ -1,0 +1,2 @@
+include ':aidl-client', ':aidl-servers'
+rootProject.name='services'
